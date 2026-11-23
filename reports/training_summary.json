@@ -1,0 +1,17 @@
+{
+  "total_images": 5215,
+  "real_images": 2215,
+  "fake_images": 3000,
+  "skipped_unreadable": 0,
+  "image_size": [
+    64,
+    64
+  ],
+  "feature_method": "HOG",
+  "best_model": "SVM",
+  "split": {
+    "train": 0.6,
+    "validation": 0.2,
+    "test": 0.2
+  }
+}
